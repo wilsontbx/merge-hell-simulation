@@ -1,6 +1,7 @@
 <directory_1/file_3.txt title>
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+Pair program as much as possible. There is no faster way to learn how to code.
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
 
