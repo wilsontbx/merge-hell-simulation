@@ -1,6 +1,7 @@
 <directory_1/file_1.txt title>
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+Letting problems pile up without checking is a poor strategy. I used to make endless changes to my code and expect it to work right away. The problem with this approach is that it stacks one problem on top of another, and it becomes difficult to figure what went wrong.
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
 
