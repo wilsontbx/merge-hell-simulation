@@ -7,3 +7,4 @@ Programming isn’t like studying for a test. Memorizing stuff doesn’t matter 
 Programming is about using the right tool for the job. There are so many different open source libraries, tools, and frameworks at your disposal. So you need to grow your developer toolkit and understand which tool makes sense for each problem that they encounter.
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+You’re going to wake up in the morning thinking about code. And when it happens, it’s really freakin’ cool.
