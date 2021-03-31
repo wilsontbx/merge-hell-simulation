@@ -4,5 +4,6 @@ Programming isn’t like studying for a test. Memorizing stuff doesn’t matter 
 Pair program as much as possible. There is no faster way to learn how to code.
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+Programming is about using the right tool for the job. There are so many different open source libraries, tools, and frameworks at your disposal. So you need to grow your developer toolkit and understand which tool makes sense for each problem that they encounter.
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
