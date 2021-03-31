@@ -1,6 +1,7 @@
 <directory_1/file_2.txt title>
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
 
